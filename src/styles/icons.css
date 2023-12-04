@@ -1,0 +1,15 @@
+.size-8 > svg {
+    height: 8px;
+    width: 8px;
+}
+
+.size-32 > svg {
+    height: 32px;
+    width: 32px;
+}
+
+
+.size-64 > svg {
+    height: 64px;
+    width: 64px;
+}

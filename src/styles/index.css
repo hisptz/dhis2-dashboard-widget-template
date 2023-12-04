@@ -1,0 +1,12 @@
+@import "common.css";
+
+body {
+    height: 100dvh;
+    width: 100%;
+    overflow: hidden;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+}
