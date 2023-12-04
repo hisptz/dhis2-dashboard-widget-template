@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@dhis2/app-runtime": "^3.9.4",
+    "@dhis2/ui": "^8.15.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
