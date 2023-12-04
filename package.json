@@ -52,7 +52,7 @@
     "bestzip": "^2.2.1",
     "d2-manifest": "^1.0.0",
     "dotenv": "^16.3.1",
-    "eslint": "^8.53.0",
+    "eslint": "^8.55.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
     "http-proxy": "^1.18.1",
